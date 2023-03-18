@@ -1,0 +1,11 @@
+Url: http://localhost:8789/employees/
+
+
+
+
+ {
+        "id": "AB3894",
+        "name": "Vikas Ambekar",
+        "age": 22,
+        "email": "AB3894@axisbank.com"
+}
